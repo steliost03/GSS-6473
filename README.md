@@ -5,6 +5,7 @@ GSS-6473 is yet another action-packed, generic space shooter that you never aske
 Survive as long as you can against the onslaught of the alien force (and avoid some asteroids here and there).     
 Your eventual doom is inevitable , but you may get a sweet highscore for your efforts!
 
+
 <img src = "https://cloud.githubusercontent.com/assets/20325266/23576831/b5c65cb2-00b8-11e7-8ffe-932a277e8354.png" , width = "49%" >
 <img src = "https://cloud.githubusercontent.com/assets/20325266/23576833/bae195fe-00b8-11e7-809a-6ce3bbc07f79.png" , width = "49%" >
 
