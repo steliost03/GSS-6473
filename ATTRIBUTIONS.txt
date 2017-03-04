@@ -1,0 +1,25 @@
+ART AND SOUND EFFECTS : Obtained from Opengameart.org
+
+GAME ICON : Obtained from Game-icons.net -> Created by Lorc under CC BY 3.0
+
+FONTS : 
+
+mainmenu font(nulshock_bd) : Obtained from DAFONT.COM -> Created by Typodermic Fonts , http://typodermicfonts.com/
+
+ingame font(Xolonium-Regular) : Obtained from fontlibrary.org and is under SIL Open Font License.
+
+
+SPECIFIC ATTRIBUTIONS FOR ART 
+
+enemy spaceship 1 -> http://opengameart.org/content/spaceship-1-0
+enemy spaceship 2 -> http://opengameart.org/content/animated-ufo-round-spaceship
+asteroid          -> http://opengameart.org/content/space-shooter-assets
+player battleship -> http://opengameart.org/content/pack-spaceships-and-building
+
+
+
+
+
+
+
+
