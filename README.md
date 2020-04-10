@@ -39,4 +39,4 @@ Coming soon
 
 'GSS 6473' is distributed under the GNU General Public License Version 3.0
 
-Copyright (C) 2017 Stelios Tsiakalos
+Copyright (C) 2017 Stylianos Tsiakalos
